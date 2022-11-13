@@ -1,10 +1,4 @@
-<style> 
-.class {
-border: 1px solid black;
-}
-</style>
-
-<div class:"ola" align="center">
+<div align="center">
 <h1> Ola, sou o Hugo 👋 </h1>
 
   <p>🌱 Agora estou a tentar aprender programação sozinho.</p>
